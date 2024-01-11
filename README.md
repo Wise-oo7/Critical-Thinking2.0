@@ -1,1 +1,4 @@
-# Critical-Thinking2.0
+# responsive personal website with scroll animation 
+
+# https://wise-oo7.github.io/Critical-Thinking/
+
